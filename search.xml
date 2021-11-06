@@ -8,7 +8,7 @@
       <link href="/2021/11/06/Why-Blog/"/>
       <url>/2021/11/06/Why-Blog/</url>
       
-        <content type="html"><![CDATA[<h2 id="Why-Blog"><a href="#Why-Blog" class="headerlink" title="Why Blog"></a>Why Blog</h2><ul><li>每周学习的总结</li><li>无人交流时，一种倾诉的方式</li><li>知识点的总结</li></ul><h2 id="如何发布博客到互联网"><a href="#如何发布博客到互联网" class="headerlink" title="如何发布博客到互联网"></a>如何发布博客到互联网</h2><h3 id="在本地创建一个md文件"><a href="#在本地创建一个md文件" class="headerlink" title="在本地创建一个md文件"></a>在本地创建一个md文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo n <span class="string">&quot;Blog name&quot;</span></span><br></pre></td></tr></table></figure><p>书写好内容之后</p><h3 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h2 id="1-Why-Blog"><a href="#1-Why-Blog" class="headerlink" title="1. Why Blog"></a>1. Why Blog</h2><h3 id="拥有自己的博客很高大上？"><a href="#拥有自己的博客很高大上？" class="headerlink" title="拥有自己的博客很高大上？"></a><em>拥有自己的博客很高大上？</em></h3><ul><li><p>每周生活的总结，学习、生活、运动…都可以。</p></li><li><p>知识点的总结</p></li><li><p>对于一些琐碎的点，如<em>如何安装软件、安装软件遇到的坑、如何创建博客、更换主题.</em>..这些内容的记录。</p></li><li><p>对我而言，博客还可以充当这样的角色：无人交流时，一种倾诉的方式。我的博客可以包括学习总结、生活感悟、消解苦闷、倾吐心声…….</p></li></ul><h3 id="为什么"><a href="#为什么" class="headerlink" title="为什么"></a><em>为什么</em></h3><ul><li><strong>每当解决一个问题之后总结并记录下来，以后会有事半功倍的效果。</strong>倘若不做记录的话，每次百度半天甚至一两天的问题，再次遇到又要花费相同的时间去找，很浪费时间。</li><li><strong>对于任何渴望进步的人来说，写文章对自己的成长帮助都是巨大的。</strong>频率、数量不必过分强求，有话要说就写写，没事就歇歇，随意一点。因为坚持写作的那一刻起，你就已经开始受益。</li></ul><h2 id="2-如何发布博客到互联网"><a href="#2-如何发布博客到互联网" class="headerlink" title="2. 如何发布博客到互联网"></a>2. 如何发布博客到互联网</h2><h3 id="在本地创建一个md文件"><a href="#在本地创建一个md文件" class="headerlink" title="在本地创建一个md文件"></a>在本地创建一个md文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo n <span class="string">&quot;Blog name&quot;</span></span><br></pre></td></tr></table></figure><p>使用Markdown书写好内容之后，进行发布。</p><h3 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
@@ -17,19 +17,6 @@
             <tag> Summary </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>博客名</title>
-      <link href="/2021/11/06/%E5%8D%9A%E5%AE%A2%E5%90%8D/"/>
-      <url>/2021/11/06/%E5%8D%9A%E5%AE%A2%E5%90%8D/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
       
     </entry>
     
