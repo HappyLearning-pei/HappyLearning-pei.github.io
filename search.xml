@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Why Blog</title>
+      <link href="/2021/11/06/Why-Blog/"/>
+      <url>/2021/11/06/Why-Blog/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Why-Blog"><a href="#Why-Blog" class="headerlink" title="Why Blog"></a>Why Blog</h2><ul><li>每周学习的总结</li><li>无人交流时，一种倾诉的方式</li><li>知识点的总结</li></ul><h2 id="如何发布博客到互联网"><a href="#如何发布博客到互联网" class="headerlink" title="如何发布博客到互联网"></a>如何发布博客到互联网</h2><h3 id="在本地创建一个md文件"><a href="#在本地创建一个md文件" class="headerlink" title="在本地创建一个md文件"></a>在本地创建一个md文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo n <span class="string">&quot;Blog name&quot;</span></span><br></pre></td></tr></table></figure><p>书写好内容之后</p><h3 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Summary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客名</title>
       <link href="/2021/11/06/%E5%8D%9A%E5%AE%A2%E5%90%8D/"/>
       <url>/2021/11/06/%E5%8D%9A%E5%AE%A2%E5%90%8D/</url>
